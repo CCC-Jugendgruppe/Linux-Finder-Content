@@ -1,5 +1,5 @@
 # Linux-Finder-Content
-```
+`
 {
     "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],
     "answers" : {
@@ -9,81 +9,90 @@
       	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]
     }
 }
-```
+`
 
-#Kategorien:
-	allgemein:
-  	Vorheriges OS
-   	PC Anforderungen
+# Kategorien:
+Allgemein:
+Vorheriges OS
+PC Anforderungen
 
  # Einsteiger:
-  	Mit Konsole vertraut
-  	Office
-  	Allgemeine Erfahrung
-  	Multimedia
+ Mit Konsole vertraut
+ Office
+ Allgemeine Erfahrung
+ Multimedia
     
-  #Fortgeschritten:
-  	Pentesting (hacking)
+  # Fortgeschritten:
+ Pentesting (hacking)
     
-  #Einsatzzweck:
-  	Gaming
-    Entwicklung
-    kreatives Arbeiten
-    Office
-    Surfen
+  # Einsatzzweck:
+ Gaming
+ Entwicklung
+ kreatives Arbeiten
+ Office
+ Surfen
 
-	Oberflächen:
-		Einrichtbarkeit
-    Wichtigkeit aussehen
+# Oberflächen:
 
-    Ob man in der Lage ist, bei Fehlern und Problemen selbstständig eine Lösung zu finden (indem man recherchiert, Foren, Ubuntuusers usw)
-´´´
-	Distribution:	Beschreibung:
+Einrichtbarkeit
+Wichtigkeit aussehen
 
-  					Kali Linux (Finn)
-					Kali ist eins der Bekanntesten Hacker Linux Distributionen es bietet viele Vorinstallierte tools zum Pentesting sei es Hashcat oder John the ripper. Es ist ein System das mit geringen systemanforderungen zurecht kommt. 
+Ob man in der Lage ist, bei Fehlern und Problemen selbstständig eine Lösung zu finden (indem man recherchiert, Foren, Ubuntuusers usw)
+
+### Distribution: 	Beschreibung:
+
+## Kali Linux (Finn)
+
+Kali ist eins der Bekanntesten Hacker Linux Distributionen es bietet viele Vorinstallierte tools zum Pentesting sei es Hashcat oder John the ripper. Es ist ein System das mit geringen systemanforderungen zurecht kommt. 
                 	Es kann sowohl in der Virtuellen Maschine als auch als Live oder komplette Instalation genutzt werden. Kali ist kein System für den Altag eines nicht Pentesters da man viele Sachen erstens nicht braucht und zweitens 
                 	etwas umstäntlich in der Bedienung ist.
 
-	Raspberry Pi OS (Mattis)
-                  	Raspberry Pi OS (früher Raspbian) ist das Standart Betriebssystem für Raspberrry Pi's, es wurde für ARM Prozessoren optimiert. Es gibt drei Varianten: Raspberry Pi OS ohne Oberfläche (Zugriff über SSH), eine Variante mit Desktop und den wichtigsten Programmen und eine Version mit zusätzlichen empfohlenen Programmen wie LibreOffice, Scratch uvm.
-	Parrot 			(Finn)
+## Raspberry Pi OS (Mattis)
+
+Raspberry Pi OS (früher Raspbian) ist das Standart Betriebssystem für Raspberrry Pi's, es wurde für ARM Prozessoren optimiert. Es gibt drei Varianten: Raspberry Pi OS ohne Oberfläche (Zugriff über SSH), eine Variante mit Desktop und den wichtigsten Programmen und eine Version mit zusätzlichen empfohlenen Programmen wie LibreOffice, Scratch uvm.
+
+
+## Parrot (Finn)
                  
-                 	Parrot ist ebenfals ein Betriebsystem das für Pentester gemacht ist ebenso wie Kali. Vom Aufbau her sind sie gleich, aber Parrot benötigt imgegensatz zu Kali noch weniger an Systemanforderungen. 
+Parrot ist ebenfals ein Betriebsystem das für Pentester gemacht ist ebenso wie Kali. Vom Aufbau her sind sie gleich, aber Parrot benötigt imgegensatz zu Kali noch weniger an Systemanforderungen. 
                  
-	EndeavourOS 	(David)
+## EndeavourOS 	(David)
 
-  	Arch 			(David)
+## Arch 			(David)
 
-	*Ubuntu: Ubuntu, Xubuntu, Kubuntu, Lubuntu, Ubuntu mate 
-	Ubuntu ist ein schickes und beliebtes System, vorallem für Einsteiger aber auch Fortgeschrittene. Es ist sehr beliebt, da es einige Programme wie Libre Office, Firefox usw bereits mitbringt und sich einfach bedienen lässt.
-	Für Linux Verhältnisse benötigt es eher mehr Ressourcen, jedoch weniger als Windows.
-  
-	Linux Mint 		(Mattis)
-	Linux Mint gibt es in 3 verschiedenen Ausführungen: XFCE für ältere Rechner oder minimalistische Nutzer, KDE und Gnome. Weiteres dazu findet ihr bei Oberflächen. Es ähnelt von der Oberfläche und Bedienung Windows sehr, Windows Nutzer werden sich gut zurecht finden.
-  
-  Fedora 				(Mattis)
+## *Ubuntu: Ubuntu, Xubuntu, Kubuntu, Lubuntu, Ubuntu mate 
 
-	Zorin OS 			(Mattis)
-	Zorin OS ist ein ressourcenschonendes System mit hübsch gestalteten XFCE Oberfläche. Es eignet sich vorallem für sehr alte Rechner, da es sehr wenig Leistung benötigt. Es sorgt dafür, dass sich gerade schwächere Rechner schneller anfühlen, beim Browsen usw. darf man trotzdem keine Wunder erwarten, jedoch kann man mit Zorin OS das meiste auf einem alten so nutzbar wie möglich
+Ubuntu ist ein schickes und beliebtes System, vorallem für Einsteiger aber auch Fortgeschrittene. Es ist sehr beliebt, da es einige Programme wie Libre Office, Firefox usw bereits mitbringt und sich einfach bedienen lässt.
+Für Linux Verhältnisse benötigt es eher mehr Ressourcen, jedoch weniger als Windows.
   
-  Manjaro				(Konrad?)
+## Linux Mint 		(Mattis)
+
+Linux Mint gibt es in 3 verschiedenen Ausführungen: XFCE für ältere Rechner oder minimalistische Nutzer, KDE und Gnome. Weiteres dazu findet ihr bei Oberflächen. Es ähnelt von der Oberfläche und Bedienung Windows sehr, Windows Nutzer werden sich gut zurecht finden.
+  
+## Fedora 				(Mattis)
+
+## Zorin OS 			(Mattis)
+
+Zorin OS ist ein ressourcenschonendes System mit hübsch gestalteten XFCE Oberfläche. Es eignet sich vorallem für sehr alte Rechner, da es sehr wenig Leistung benötigt. Es sorgt dafür, dass sich gerade schwächere Rechner schneller anfühlen, beim Browsen usw. darf man trotzdem keine Wunder erwarten, jedoch kann man mit Zorin OS das meiste auf einem alten so nutzbar wie möglich
+  
+## Manjaro				(Konrad?)
 	
-  (Android x86) (Mattis)
+## (Android x86) (Mattis)
 	
-	opensuse/suse (Finn) Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflichtige Linux Version. 
-´´´
-#Oberfläche:
-			Gnome
-      Xfce
-      LXDE
-      Plasma (KDE)
-      Deepin
-      Debian
-      i3
-      Mate
-      Cinnamon 
-´´´
+opensuse/suse (Finn) Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflichtige Linux Version. 
+
+
+# Oberfläche:
+Gnome
+Xfce
+LXDE
+Plasma (KDE)
+Deepin
+i3
+Mate
+Cinnamon
+
+`
 "specs" : {
 		"de_q":"Wie gut ist dein rechner"
 		"de_1":"uralter Toaster",			   <2gb ram
@@ -114,9 +123,11 @@
     "de_office":"Textarbeit?",
     "de_gaming":"Gaming?"
     "de_browsing":"Im internet Surfen"
-
-------------------------
+`
   ui template:
+  ------------
+
+  `
   "desktop environment name" : {
 		"customizeable":3,
 		"generalexp":3,
@@ -126,8 +137,9 @@
 		"coding":3,
 		"office":3,
 		"specs":3
-  
-  os template:
+  `
+  ## os template:
+  `
   "distro name" : {
 		"specs" : 3,
 		"consolesxp": 3,
@@ -141,24 +153,27 @@
   	  "code":3
     }
  	}
-  "questions"
+ `
+ "questions"
   "answers"
   "0", "1" usw.  
     
-  definition:		depends on:
-  specs: 			how powerful the hardware should be
-  consoleexp: 		how much knowledge you should have on using the terminal
-  general:			overall gained experience with linux
-  setup:			how easy it is to install and if you need to install much additional packages
-  usage:			purpose
+  definition:	depends on:
+  specs: 	how powerful the hardware should be
+  consoleexp: 	how much knowledge you should have on using the terminal
+  general:	overall gained experience with linux
+  setup:	how easy it is to install and if you need to install much additional packages
+  usage:	purpose
+  
   3 = default value (neutral)
   higher value means more complex or higher level
   0 = lowest, 5 = highest
 
-------------------------
+
   
   Distribution:
-    
+ ---------------
+	`
 	"endeavoros" : {
 		"specs" : 2,
 		"consolesxp": 4,
@@ -387,10 +402,10 @@
   		}
   }
 
- ´´´   
+`  
 
-  #Oberflächen:
-  ´´´
+  # Oberflächen:
+`
 	"xfce" : {
 		"customizeable":5,
 		"generalexp":3,
@@ -438,7 +453,7 @@
     "browsing":3,
 		"specs":2
 	}
-  ´´´
+ `
    
     Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
     Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
