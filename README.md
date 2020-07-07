@@ -1,15 +1,15 @@
 # Linux-Finder-Content
-
->{\
->    "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],\
->    "answers" : {\
->        "0" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3_1", "Das ist Frage 5 oder doch4?", "erfahrung" ,"radio", 4],\
->        "1" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","shell" ,"radio", 4],\
->        "2" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","erfahrung" ,"radio", 4]\
->      	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]\
->    }\
->}\
-
+```
+{
+    "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],
+    "answers" : {
+        "0" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3_1", "Das ist Frage 5 oder doch4?", "erfahrung" ,"radio", 4],
+        "1" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","shell" ,"radio", 4],
+        "2" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","erfahrung" ,"radio", 4]
+      	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]
+    }
+}
+```
 
 # Kategorien:
 ### Allgemein:
@@ -93,7 +93,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 - Mate
 - Cinnamon
 
-
+```
 "specs" : {
 		"de_q":"Wie gut ist dein rechner"
 		"de_1":"uralter Toaster",			   <2gb ram
@@ -127,10 +127,10 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "de_office":"Textarbeit?",
     "de_gaming":"Gaming?"
     "de_browsing":"Im internet Surfen"
-
+```
   ## ui template:
   ------------
-
+```
 
   "desktop environment name" : {
 		"customizeable":3,
@@ -141,9 +141,9 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		"coding":3,
 		"office":3,
 		"specs":3
-
+```
   ## os template:
-
+```
   "distro name" : {
 		"specs" : 3,
 		"consolesxp": 3,
@@ -174,11 +174,11 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   higher value means more complex or higher level
   0 = lowest, 5 = highest
 
-
+```
   
   Distribution:
  ---------------
-	`
+```	
 	"endeavoros" : {
 		"specs" : 2,
 		"consolesxp": 4,
@@ -193,9 +193,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		}
     "guis":["xfce","i3","cinnamon","plasma","gnome","budgie","deepin"]
 	}
-  `
- `
- ` 
+
   "ubuntu" : {
 		"specs" : 4,
 		"consolesxp": 1,
@@ -209,8 +207,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  "code":3
     }
   }  
-`
-  `
+
   "linuxmint" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -224,8 +221,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  "code":3,
   		}
   }
-`
-`
+
   "fedora" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -239,8 +235,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"kali" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -254,9 +249,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-`
-`
-  	"parrot" : {
+	"parrot" : {
 		"specs" : 3,
 		"consolesxp": 2,
 		"generalexp": 4,
@@ -269,8 +262,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
   	"suse-linux" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -284,8 +276,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"manjaro" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -299,8 +290,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"arch" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -314,8 +304,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"kubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -329,8 +318,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"xubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -344,8 +332,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"cubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -359,8 +346,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"lubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -374,8 +360,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"ubuntu-mate" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -389,8 +374,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
 	"zorin-os" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -404,8 +388,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+ 
     
 	"instant-os" : {
 		"specs" : 3,
@@ -420,8 +403,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-  `
-  `
+
   "open-suse" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -436,10 +418,10 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   		}
   }
 
-`  
+```
 
   # Oberflächen:
-`
+```
 	"xfce" : {
 		"customizeable":5,
 		"generalexp":3,
@@ -487,9 +469,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "browsing":3,
 		"specs":2
 	}
- `
- `
-   `
+```
     Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
     Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
     Damit ihnen die Wahl einer Linux Distibution leichter fällt,wurde dieser Linux-Finder entwickelt. Die meisten Systeme können sie selbst (über ein Live-System) ausprobieren, ohne Änderungen an ihrem rechner vorzunehmen. Wie das geht, zeigen wir ihnen h
