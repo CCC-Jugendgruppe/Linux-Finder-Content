@@ -470,9 +470,9 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		"specs":2
 	}
 ```
-    Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
-    Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
-    Damit ihnen die Wahl einer Linux Distibution leichter fällt,wurde dieser Linux-Finder entwickelt. Die meisten Systeme können sie selbst (über ein Live-System) ausprobieren, ohne Änderungen an ihrem rechner vorzunehmen. Wie das geht, zeigen wir ihnen h
-    Das Ziel des Linux Finders ist es, für jeden das passende Linux zu finden. Hierfür müssen sie unten einfach die Fragen Beantworten. Sie müssen keine Persönlichen Daten eingeben wie zum Beispiel Name und Adresse, wir benötigen lediglich 
-    die Rechnerleistung und wofür es Benötigt wird. Der Linux Finder wurde von der CCC Jugendgruppe aus Göttingen entwickelt den Code kann man sich auf Github anschauen.(https://github.com/CCC-Jugendgruppe)
+> Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
+> Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
+> Damit ihnen die Wahl einer Linux Distibution leichter fällt,wurde dieser Linux-Finder entwickelt. Die meisten Systeme können sie selbst (über ein Live-System) ausprobieren, ohne Änderungen an ihrem rechner vorzunehmen. Wie das geht, zeigen wir ihnen h
+> Das Ziel des Linux Finders ist es, für jeden das passende Linux zu finden. Hierfür müssen sie unten einfach die Fragen Beantworten. Sie müssen keine Persönlichen Daten eingeben wie zum Beispiel Name und Adresse, wir benötigen lediglich 
+> die Rechnerleistung und wofür es Benötigt wird. Der Linux Finder wurde von der CCC Jugendgruppe aus Göttingen entwickelt den Code kann man sich auf Github   anschauen.(https://github.com/CCC-Jugendgruppe)
   
