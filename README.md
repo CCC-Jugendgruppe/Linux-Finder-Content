@@ -159,6 +159,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
  	}
 
  
+```
  "questions"
   "answers"
   "0", "1" usw.  
@@ -174,7 +175,6 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   higher value means more complex or higher level
   0 = lowest, 5 = highest
 
-```
   
   Distribution:
  ---------------
