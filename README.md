@@ -102,7 +102,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		"de_4":"Gaming PC",						16-32gb ram
 		"de_5":"High end PC"				   +32gb ram
 },
-
+`
+`
 "consoleexp" : {
 		"de_q":"Bist du mit der Konsole vertraut?",
     "de_1":"Nein, ich weiß nicht was das ist.",
@@ -111,6 +112,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "de_4":"Ich nutze sie oft und kenne einige Befehle",
     "de_5":"Die Konsole ist mein Zuhause, ich komme bestens zurecht!"
 },
+`
+`
 
 "usages" : {
 		"de_q":"Wie oft nutzen sie ihren rechner für...",
@@ -155,6 +158,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     }
  	}
  `
+ 
  "questions"
   "answers"
   "0", "1" usw.  
@@ -190,7 +194,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "guis":["xfce","i3","cinnamon","plasma","gnome","budgie","deepin"]
 	}
   `
-  
+ `
+ ` 
   "ubuntu" : {
 		"specs" : 4,
 		"consolesxp": 1,
@@ -204,7 +209,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  "code":3
     }
   }  
-
+`
+  `
   "linuxmint" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -218,7 +224,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  "code":3,
   		}
   }
-
+`
+`
   "fedora" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -232,6 +239,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"kali" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -245,7 +254,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
-
+`
+`
   	"parrot" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -259,6 +269,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
   	"suse-linux" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -272,6 +284,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"manjaro" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -285,6 +299,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"arch" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -298,6 +314,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"kubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -311,6 +329,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"xubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -324,6 +344,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"cubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
