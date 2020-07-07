@@ -1,15 +1,15 @@
 # Linux-Finder-Content
-`
-{
-    "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],
-    "answers" : {
-        "0" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3_1", "Das ist Frage 5 oder doch4?", "erfahrung" ,"radio", 4],
-        "1" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","shell" ,"radio", 4],
-        "2" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","erfahrung" ,"radio", 4]
-      	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]
-    }
-}
-`
+
+>{\
+>    "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],\
+>    "answers" : {\
+>        "0" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3_1", "Das ist Frage 5 oder doch4?", "erfahrung" ,"radio", 4],\
+>        "1" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","shell" ,"radio", 4],\
+>        "2" : ["Erste Antwort","Zweite Antwort1", "das ist Frage 3", "Das ist Frage 5 oder doch4?","erfahrung" ,"radio", 4]\
+>      	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]\
+>    }\
+>}\
+
 
 # Kategorien:
 ### Allgemein:
@@ -93,7 +93,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 - Mate
 - Cinnamon
 
-`
+
 "specs" : {
 		"de_q":"Wie gut ist dein rechner"
 		"de_1":"uralter Toaster",			   <2gb ram
@@ -102,8 +102,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		"de_4":"Gaming PC",						16-32gb ram
 		"de_5":"High end PC"				   +32gb ram
 },
-`
-`
+
+
 "consoleexp" : {
 		"de_q":"Bist du mit der Konsole vertraut?",
     "de_1":"Nein, ich weiß nicht was das ist.",
@@ -112,8 +112,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "de_4":"Ich nutze sie oft und kenne einige Befehle",
     "de_5":"Die Konsole ist mein Zuhause, ich komme bestens zurecht!"
 },
-`
-`
+
+
 
 "usages" : {
 		"de_q":"Wie oft nutzen sie ihren rechner für...",
@@ -127,11 +127,11 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
     "de_office":"Textarbeit?",
     "de_gaming":"Gaming?"
     "de_browsing":"Im internet Surfen"
-`
+
   ## ui template:
   ------------
 
-  `
+
   "desktop environment name" : {
 		"customizeable":3,
 		"generalexp":3,
@@ -141,9 +141,9 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 		"coding":3,
 		"office":3,
 		"specs":3
-  `
+
   ## os template:
-  `
+
   "distro name" : {
 		"specs" : 3,
 		"consolesxp": 3,
@@ -157,7 +157,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  "code":3
     }
  	}
- `
+
  
  "questions"
   "answers"
