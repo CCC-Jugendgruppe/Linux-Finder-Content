@@ -84,7 +84,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 
 
 # Oberfläche:
--Gnome
+- Gnome
 - Xfce
 - LXDE
 - Plasma (KDE)
@@ -359,6 +359,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"lubuntu" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -372,6 +374,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"ubuntu-mate" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -385,6 +389,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
 	"zorin-os" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -398,6 +404,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
     
 	"instant-os" : {
 		"specs" : 3,
@@ -412,6 +420,8 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
   	  		"code":4,
   		}
   }
+  `
+  `
   "open-suse" : {
 		"specs" : 3,
 		"consolesxp": 2,
@@ -479,7 +489,7 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 	}
  `
  `
-   
+   `
     Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
     Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
     Damit ihnen die Wahl einer Linux Distibution leichter fällt,wurde dieser Linux-Finder entwickelt. Die meisten Systeme können sie selbst (über ein Live-System) ausprobieren, ohne Änderungen an ihrem rechner vorzunehmen. Wie das geht, zeigen wir ihnen h
