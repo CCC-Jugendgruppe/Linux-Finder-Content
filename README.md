@@ -1,5 +1,5 @@
 # Linux-Finder-Content
-
+```
 {
     "questions" : ["Wie viel Erfahrung hast du  mit Windows?", "Wie viel RAM hat dein PC?","noch eine Tolle Frage"],
     "answers" : {
@@ -9,23 +9,23 @@
       	"3" : ["Testantwort", wertigkeit ,"Kategorie",  "Abfragetyp", 4]
     }
 }
+```
 
-
-Kategorien:
+#Kategorien:
 	allgemein:
   	Vorheriges OS
    	PC Anforderungen
 
-  Einsteiger:
+ # Einsteiger:
   	Mit Konsole vertraut
   	Office
   	Allgemeine Erfahrung
   	Multimedia
     
-  Fortgeschritten:
+  #Fortgeschritten:
   	Pentesting (hacking)
     
-  Einsatzzweck:
+  #Einsatzzweck:
   	Gaming
     Entwicklung
     kreatives Arbeiten
@@ -37,7 +37,7 @@ Kategorien:
     Wichtigkeit aussehen
 
     Ob man in der Lage ist, bei Fehlern und Problemen selbstständig eine Lösung zu finden (indem man recherchiert, Foren, Ubuntuusers usw)
-
+´´´
 	Distribution:	Beschreibung:
 
   					Kali Linux (Finn)
@@ -72,8 +72,8 @@ Kategorien:
   (Android x86) (Mattis)
 	
 	opensuse/suse (Finn) Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflichtige Linux Version. 
-
-Oberfläche:
+´´´
+#Oberfläche:
 			Gnome
       Xfce
       LXDE
@@ -83,7 +83,7 @@ Oberfläche:
       i3
       Mate
       Cinnamon 
-
+´´´
 "specs" : {
 		"de_q":"Wie gut ist dein rechner"
 		"de_1":"uralter Toaster",			   <2gb ram
@@ -387,10 +387,10 @@ Oberfläche:
   		}
   }
 
-    
+ ´´´   
 
-  Oberflächen:
-  
+  #Oberflächen:
+  ´´´
 	"xfce" : {
 		"customizeable":5,
 		"generalexp":3,
@@ -438,7 +438,7 @@ Oberfläche:
     "browsing":3,
 		"specs":2
 	}
-  
+  ´´´
    
     Linux ist ein freies Betriebssystem, wovon es anders als bei Windows oder Mac OS viele verschiedene Systeme gibt. Die meisten Linux Distributionen sind kostenlos und fühlen sich schneller an, da weniger Programme vorinstalliert sind.
     Die Verschiedenen Systeme legen ihren Fokus auf verschiedene Einsatzzwecke, man kann sich also entscheiden, welches Betriebsssystem man nutzen möchte.
