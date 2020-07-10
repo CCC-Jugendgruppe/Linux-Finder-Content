@@ -14,17 +14,16 @@
 # Kategorien:
 ### Allgemein:
 - Vorheriges OS
-- PC Anforderungen
+- PC Ressourcen
+- Anwendungszweck
+- einfach zu installieren und zu bedienen
 
  ## Einsteiger:
- - Mit Konsole vertraut
+ - Konsolenerfahrung
  - Office
  - Allgemeine Erfahrung
  - Multimedia
-    
-  ## Fortgeschritten:
- - Pentesting (hacking)
-    
+ 
   # Einsatzzweck:
  - Gaming
  - Entwicklung
@@ -37,50 +36,47 @@
 - Einrichtbarkeit
 - Wichtigkeit aussehen
 
-Ob man in der Lage ist, bei Fehlern und Problemen selbstständig eine Lösung zu finden (indem man recherchiert, Foren, Ubuntuusers usw)
+Ob man in der Lage ist, bei Fehlern und Problemen selbstständig eine Lösung zu finden (indem man recherchiert, Foren, Ubuntuusers usw.)
 
 ### Distribution: 	Beschreibung:
 
 ### Kali Linux (Finn)
 
-Kali ist eins der Bekanntesten Hacker Linux Distributionen es bietet viele Vorinstallierte tools zum Pentesting sei es Hashcat oder John the ripper. Es ist ein System das mit geringen systemanforderungen zurecht kommt. 
-                	Es kann sowohl in der Virtuellen Maschine als auch als Live oder komplette Instalation genutzt werden. Kali ist kein System für den Altag eines nicht Pentesters da man viele Sachen erstens nicht braucht und zweitens 
-                	etwas umstäntlich in der Bedienung ist.
+Kali ist eine der Bekanntesten und beliebtesten Hacker Distributionen. Es bietet viele Vorinstallierte Tools für's Pentesting wie Hashcat oder John the ripper. Es kommt mit wenig Systemressourcen zurecht. Es kann sowohl in einer Virtuellen Maschine als auch als Livesession oder normale Installation genutzt werden. Kali ist kein System für den Altag eines nicht Pentesters, da man viele Tools nicht braucht und es etwas umständlich in der Bedienung ist.
 
 ### Raspberry Pi OS (Mattis)
 
-Raspberry Pi OS (früher Raspbian) ist das Standart Betriebssystem für Raspberrry Pi's, es wurde für ARM Prozessoren optimiert. Es gibt drei Varianten: Raspberry Pi OS ohne Oberfläche (Zugriff über SSH), eine Variante mit Desktop und den wichtigsten Programmen und eine Version mit zusätzlichen empfohlenen Programmen wie LibreOffice, Scratch uvm.
+Raspberry Pi OS (früher Raspbian) ist das offizielle Betriebssystem für Raspberrry Pi's, es läuft ausschließlich auf Pi's, da es für ARM Prozessoren optimiert wurde. Es gibt drei Varianten: Raspberry Pi OS ohne Oberfläche (Zugriff über SSH), eine Variante mit Desktop und den wichtigsten Programmen und eine Version mit zusätzlichen empfohlenen Programmen wie LibreOffice, Scratch uvm.
 
 
 ### Parrot (Finn)
                  
-Parrot ist ebenfals ein Betriebsystem das für Pentester gemacht ist ebenso wie Kali. Vom Aufbau her sind sie gleich, aber Parrot benötigt imgegensatz zu Kali noch weniger an Systemanforderungen. 
+Parrot ist ebenfals ein Betriebsystem, das für Pentester gemacht ist, ebenso wie Kali. Vom Aufbau her sind sie gleich, Parrot benötigt im gegensatz zu Kali jedoch  noch weniger Systemressourcen. 
                  
-### EndeavourOS 	(David)
+### EndeavourOS (David)
 
-### Arch 			(David)
+### Arch (David)
 
 ### *Ubuntu: Ubuntu, Xubuntu, Kubuntu, Lubuntu, Ubuntu mate 
 
-Ubuntu ist ein schickes und beliebtes System, vorallem für Einsteiger aber auch Fortgeschrittene. Es ist sehr beliebt, da es einige Programme wie Libre Office, Firefox usw bereits mitbringt und sich einfach bedienen lässt.
-Für Linux Verhältnisse benötigt es eher mehr Ressourcen, jedoch weniger als Windows.
+Ubuntu ist ein schickes und beliebtes System, da es sich einfach bedienen lässt und einige nützliche Anwendungen vorinstalliert sind. Es eignet sich besonders gut für Einsteiger aber auch Fortgeschrittene. Für Linux Verhältnisse benötigt es eher mehr Ressourcen, jedoch weniger als Windows. Ein großer Pluspunkt ist die große deutschsprachige ubuntuusers Community, in der man bei Problemen nachlesen oder sich helfen lassen kann.
   
-### Linux Mint 		(Mattis)
+### Linux Mint (Mattis)
 
-Linux Mint gibt es in 3 verschiedenen Ausführungen: XFCE für ältere Rechner oder minimalistische Nutzer, KDE und Gnome. Weiteres dazu findet ihr bei Oberflächen. Es ähnelt von der Oberfläche und Bedienung Windows sehr, Windows Nutzer werden sich gut zurecht finden.
+Von Linux Mint gibt es 3 verschiedene Varianten: XFCE für ältere Rechner oder minimalistische Nutzer, KDE und Gnome. Weiteres dazu findet ihr bei Oberflächen. Es ähnelt von der Oberfläche und Bedienung Windows sehr, Windows Nutzer werden sich gut zurecht finden.
   
-### Fedora 				(Mattis)
+### Fedora (Mattis)
 
-### Zorin OS 			(Mattis)
+### Zorin OS (Mattis)
 
-Zorin OS ist ein ressourcenschonendes System mit hübsch gestalteten XFCE Oberfläche. Es eignet sich vorallem für sehr alte Rechner, da es sehr wenig Leistung benötigt. Es sorgt dafür, dass sich gerade schwächere Rechner schneller anfühlen, beim Browsen usw. darf man trotzdem keine Wunder erwarten, jedoch kann man mit Zorin OS das meiste auf einem alten so nutzbar wie möglich
+Zorin OS ist ein ressourcenschonendes System mit hübsch gestalteter XFCE Oberfläche. Dadurch eignet es sich vorallem für Nutzer mit sehr alten Rechnern, da es sehr wenig Ressourcen benötigt. Es sorgt dafür, dass sich gerade schwächere Rechner schneller anfühlen, beim Browsen usw. darf man trotzdem keine Wunder erwarten, jedoch kann man mit Zorin OS das beste aus einem alten Rechner heraus holen und so nutzbar wie möglich machen.
   
-### Manjaro				(Konrad?)
+### Manjaro (Konrad)
 	
 ### (Android x86) (Mattis)
 	
 ### opensuse/suse (Finn) 
-Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflichtige Linux Version. 
+Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflichtige Linux Version, die sich eher an professionelle Anwender richtet.
 
 
 # Oberfläche:
