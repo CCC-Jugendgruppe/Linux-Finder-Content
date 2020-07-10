@@ -89,7 +89,6 @@ Linux ist eine Linux distributionen von der Suse GmbH, es ist eine Kostenpflicht
 - LXDE
 - Plasma (KDE)
 - Deepin
-- i3
 - Mate
 - Cinnamon
 
