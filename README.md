@@ -18,7 +18,7 @@
 - Anwendungszweck
 - einfach zu installieren und zu bedienen
 
- ## Einsteiger:
+ ## Erfahrung:
  - Konsolenerfahrung
  - Office
  - Allgemeine Erfahrung
